@@ -3,7 +3,7 @@ An interactive AI-driven assistant designed to provide pre- and post-operative g
 
 📁 Project Structure
 
-IQonsulting/
+```IQonsulting/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
@@ -19,6 +19,7 @@ IQonsulting/
 │       └── audio_utils.py
 ├── requirements.txt
 └── README.md
+```
 
 🚀 Features
 Speech-to-Text (ASR): Utilizes NVIDIA's Parakeet TDT 0.6b v2 model for accurate transcription of patient speech.
