@@ -1,0 +1,15 @@
+google-cloud-texttospeech
+nemo_toolkit[asr]
+torch
+torchaudio
+hydra-core
+lightning
+lhotse
+transformers
+jiwer
+pyannote.core
+pyannote.metrics
+datasets
+pydub
+ffmpeg-python
+ipython
