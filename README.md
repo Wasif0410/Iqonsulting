@@ -1,7 +1,13 @@
-🧠 IQonsulting AI Assistant
+# **🧠 IQonsulting AI Assistant**
+  
+<br>
 An interactive AI-driven assistant designed to provide pre- and post-operative guidance for patients. This tool leverages speech recognition and text-to-speech technologies to facilitate seamless patient interactions.
 
-📁 Project Structure
+<br>
+<br>
+<br>
+
+**📁 Project Structure**
 
 ```IQonsulting/
 ├── app/
@@ -21,11 +27,13 @@ An interactive AI-driven assistant designed to provide pre- and post-operative g
 └── README.md
 ```
 
-🚀 Features
-Speech-to-Text (ASR): Utilizes NVIDIA's Parakeet TDT 0.6b v2 model for accurate transcription of patient speech.
-
-Text-to-Speech (TTS): Employs Google Cloud Text-to-Speech API to deliver responses in a natural, synthesized voice.
-
-Real-time Interaction: Facilitates dynamic conversations between patients and the AI assistant.
-
-Modular Design: Structured for easy integration and scalability within virtual machine environments.
+**🚀 Features**
+<br>
+<br>
+**Speech-to-Text (ASR):** Utilizes NVIDIA's Parakeet TDT 0.6b v2 model for accurate transcription of patient speech.
+<br>
+**Text-to-Speech (TTS):** Employs Google Cloud Text-to-Speech API to deliver responses in a natural, synthesized voice.
+<br>
+**Real-time Interaction:** Facilitates dynamic conversations between patients and the AI assistant.
+<br>
+**Modular Design:** Structured for easy integration and scalability within virtual machine environments.
